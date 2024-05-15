@@ -120,6 +120,7 @@ celerybeat.pid
 *.sage.py
 
 lyrics/
+cleaned_lyrics/
 .cache/
 
 # Environments
