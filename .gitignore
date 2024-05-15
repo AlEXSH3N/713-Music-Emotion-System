@@ -121,6 +121,8 @@ celerybeat.pid
 
 lyrics/
 cleaned_lyrics/
+sampled/
+sampled_lyrics/
 .cache/
 
 # Environments
