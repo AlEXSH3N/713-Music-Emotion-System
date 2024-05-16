@@ -126,6 +126,7 @@ sampled_lyrics/
 train_text/
 val_text/
 test_text/
+spotify_tuner/
 .cache/
 
 # Environments
