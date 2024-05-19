@@ -126,6 +126,7 @@ sampled_lyrics/
 train_text/
 val_text/
 test_text/
+mood_detection/
 spotify_tuner/
 .cache/
 
