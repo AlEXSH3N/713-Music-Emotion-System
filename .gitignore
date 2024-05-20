@@ -126,8 +126,11 @@ sampled_lyrics/
 train_text/
 val_text/
 test_text/
+tuner_dir/
+.ipynb_checkpoints/
 spotify_tuner/
 .cache/
+.DS_Store
 
 # Environments
 .env
