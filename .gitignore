@@ -127,6 +127,7 @@ train_text/
 val_text/
 test_text/
 tuner_dir/
+mood_detection/
 .ipynb_checkpoints/
 
 spotify_tuner/
