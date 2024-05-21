@@ -133,7 +133,7 @@ mood_detection/
 spotify_tuner/
 .cache/
 .DS_Store
-
+*.pt
 # Environments
 .env
 .venv
